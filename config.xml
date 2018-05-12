@@ -1,0 +1,8 @@
+<service>
+	<serviceName>Etecsa</serviceName>
+	<serviceDescription>Servicio que te permite buscar en la db de etecssa apartir de un numero </serviceDescription>
+	<creatorEmail>cjamdeveloper@gmail.com</creatorEmail>
+	<!--serviceCategory: negocios,ocio,academico,social,comunicaciones,informativo,adulto,otros-->
+	<serviceCategory>informativo</serviceCategory>
+	
+</service>
